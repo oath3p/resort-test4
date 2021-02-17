@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/resort-test4/static/css/main.3751e549.chunk.css",
-    "main.js": "/resort-test4/static/js/main.8887e91f.chunk.js",
-    "main.js.map": "/resort-test4/static/js/main.8887e91f.chunk.js.map",
+    "main.js": "/resort-test4/static/js/main.67693c79.chunk.js",
+    "main.js.map": "/resort-test4/static/js/main.67693c79.chunk.js.map",
     "runtime-main.js": "/resort-test4/static/js/runtime-main.92aac253.js",
     "runtime-main.js.map": "/resort-test4/static/js/runtime-main.92aac253.js.map",
     "static/js/2.96c1827e.chunk.js": "/resort-test4/static/js/2.96c1827e.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.92aac253.js",
     "static/js/2.96c1827e.chunk.js",
     "static/css/main.3751e549.chunk.css",
-    "static/js/main.8887e91f.chunk.js"
+    "static/js/main.67693c79.chunk.js"
   ]
 }
