@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/resort-test4/static/css/main.3751e549.chunk.css",
-    "main.js": "/resort-test4/static/js/main.67693c79.chunk.js",
-    "main.js.map": "/resort-test4/static/js/main.67693c79.chunk.js.map",
+    "main.css": "/resort-test4/static/css/main.e85f89e8.chunk.css",
+    "main.js": "/resort-test4/static/js/main.a24d2352.chunk.js",
+    "main.js.map": "/resort-test4/static/js/main.a24d2352.chunk.js.map",
     "runtime-main.js": "/resort-test4/static/js/runtime-main.92aac253.js",
     "runtime-main.js.map": "/resort-test4/static/js/runtime-main.92aac253.js.map",
     "static/js/2.96c1827e.chunk.js": "/resort-test4/static/js/2.96c1827e.chunk.js",
     "static/js/2.96c1827e.chunk.js.map": "/resort-test4/static/js/2.96c1827e.chunk.js.map",
     "index.html": "/resort-test4/index.html",
-    "static/css/main.3751e549.chunk.css.map": "/resort-test4/static/css/main.3751e549.chunk.css.map",
+    "static/css/main.e85f89e8.chunk.css.map": "/resort-test4/static/css/main.e85f89e8.chunk.css.map",
     "static/js/2.96c1827e.chunk.js.LICENSE.txt": "/resort-test4/static/js/2.96c1827e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/resort-test4/static/media/img-8.fabdf94d.jpg",
     "static/media/img-3.6d683c0e.jpg": "/resort-test4/static/media/img-3.6d683c0e.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.92aac253.js",
     "static/js/2.96c1827e.chunk.js",
-    "static/css/main.3751e549.chunk.css",
-    "static/js/main.67693c79.chunk.js"
+    "static/css/main.e85f89e8.chunk.css",
+    "static/js/main.a24d2352.chunk.js"
   ]
 }
